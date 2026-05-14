@@ -1,0 +1,10 @@
+.streamlit/secrets.toml
+.env
+__pycache__/
+*.py[cod]
+faiss_index/
+chroma_db/
+data/
+!data/.gitkeep
+.venv/
+venv/
