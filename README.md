@@ -1,4 +1,4 @@
-# rag_app
+# RAG Application
 
 A local Retrieval-Augmented Generation (RAG) app for chatting with your own PDF documents.
 
